@@ -1,4 +1,4 @@
-FROM dev_ait_template_for_aithub-airc_developer:0.1
+FROM ait_license_base:latest
 LABEL maintainer="AIST"
 
 RUN pip install pip-licenses

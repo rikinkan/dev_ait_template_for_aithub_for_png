@@ -1,7 +1,20 @@
-# dev_template_remote_docker_0.1
+# ait-name
 
 ## description
 
-* ait.manifest.jsonを参照
+* outline of AIT
 
-test2
+***
+
+:::note info
+The following files should be added by the user.
+
+*./readme.md
+Please describe the outline of AIT.
+
+*./LICENSE.txt
+Please change if necessary.
+
+:::
+
+
